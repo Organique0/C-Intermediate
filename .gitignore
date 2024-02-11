@@ -1,0 +1,15 @@
+# Ignore Visual Studio files
+.vs/
+/bin/
+/obj/
+
+# Ignore NuGet package directories
+packages/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore build and debug directories
+Debug/
+Release/
